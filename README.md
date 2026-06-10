@@ -4,7 +4,7 @@ A machine learning project that forecasts Walmart weekly sales using historical 
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Accurate sales forecasting is critical for inventory management, workforce planning, budgeting, and strategic decision-making in the retail industry.
 
@@ -19,7 +19,7 @@ The project follows a complete end-to-end machine learning workflow from data pr
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Forecast Walmart weekly sales accurately.
 - Analyze the impact of economic and seasonal factors on sales.
@@ -28,7 +28,7 @@ The project follows a complete end-to-end machine learning workflow from data pr
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset contains Walmart weekly sales data along with several external factors affecting demand.
 
@@ -47,7 +47,7 @@ The dataset contains Walmart weekly sales data along with several external facto
 
 ---
 
-## ⚙️ Feature Engineering
+##  Feature Engineering
 
 To improve forecasting performance, several time-series features were created.
 
@@ -71,7 +71,7 @@ These features help the model capture seasonality, trends, and temporal dependen
 
 ---
 
-## 🤖 Machine Learning Models
+##  Machine Learning Models
 
 ### Random Forest Regressor
 
@@ -89,7 +89,7 @@ These features help the model capture seasonality, trends, and temporal dependen
 
 ---
 
-## 📊 Model Performance
+ 📊 Model Performance
 
 ### Random Forest
 
@@ -139,7 +139,7 @@ Although Random Forest was closer for this individual prediction, XGBoost delive
 
 ---
 
-## 📉 Visualizations
+##  Visualizations
 
 The project includes:
 
@@ -153,7 +153,7 @@ The project includes:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -166,7 +166,7 @@ The project includes:
 
 ---
 
-## 🚀 Project Workflow
+##  Project Workflow
 
 1. Data Loading
 2. Data Cleaning
@@ -182,7 +182,7 @@ The project includes:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Hyperparameter Tuning
 - LSTM-based Deep Learning Forecasting
