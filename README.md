@@ -154,8 +154,8 @@ This shows the model can produce **reasonable short-term forecasts**.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/walmart-sales-forecasting-ml.git
-cd walmart-sales-forecasting-ml
+git clone https://github.com/abin812397407/Walmart_sales_forecasting.git
+cd Walmart_sales_forecasting
 ```
 
 ### Install dependencies
@@ -175,7 +175,7 @@ python walmart_sales_forecasting.py
 ## Project Structure
 
 ```
-walmart-sales-forecasting-ml/
+walmart-sales-forecasting/
 │
 ├── walmart_sales_forecasting.py
 ├── Walmart.csv
