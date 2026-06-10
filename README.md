@@ -152,7 +152,17 @@ The project includes:
 - Error Distribution Histogram
 
 ---
+## Key Insights
 
+Feature importance analysis revealed that:
+
+- Store identity is the strongest predictor of weekly sales.
+- Economic indicators such as CPI and Unemployment significantly influence demand.
+- Seasonal effects captured through Week of Year contribute to forecasting accuracy.
+- XGBoost utilizes temporal features more effectively than Random Forest.
+- Holiday, Temperature, and Fuel Price have relatively lower influence on sales predictions.
+
+These findings suggest that store-specific characteristics and macroeconomic conditions play a larger role in determining weekly sales than short-term environmental factors.
 ##  Technologies Used
 
 - Python
